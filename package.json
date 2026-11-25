@@ -1,0 +1,1 @@
+{"author":"jehan771","description":"make.fun entry: the GPS's one-line excuse for sending the driver down the wrong road","license":"MIT","main":"main.ts","name":"gps-swears-shortcut","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
